@@ -1,5 +1,4 @@
-LayerCake: 
-Application Embedding for Android
+LayerCake: Application Embedding for Android
 ============
 
 LayerCake was created by Franziska Roesner and Tadayoshi Kohno as a research project of the University of Washington Computer Science and Engineering.
