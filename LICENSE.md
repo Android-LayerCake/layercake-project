@@ -1,3 +1,5 @@
+https://layercake.cs.washington.edu/license.html
+
 Copyright 2013 University of Washington.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to a non-exclusive, nontransferable, perpetual license to the copy, modify and perform the Software for non-profit academic research purposes. Distribution of the Software is not permitted. Use of the Software is restricted to non-commercial research purposes.
